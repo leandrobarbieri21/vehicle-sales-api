@@ -4,7 +4,7 @@
 The main goal of this project is to import CSV files
 
 This project was developed using Clean Architecture with ASP.NET Core and following DDD and SOLID principles.
-Instead of using normal Controller APIs, this project uses a new concept called API Endpoints, creating an Endpoint for each action of a Domain.
+Instead of using normal Controller APIs, this project uses a new concept called API Endpoints(REPR Design Pattern), creating an Endpoint for each action of a Domain.
 
 ### Requirements
 
